@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="walkthrougth" width="299.397" height="151.126" viewBox="0 0 299.397 151.126">
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y1="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="gray" stop-opacity=".251"/>
+            <stop offset=".54" stop-color="gray" stop-opacity=".122"/>
+            <stop offset="1" stop-color="gray" stop-opacity=".102"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1=".5" x2=".5" y1="1" y2="0" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-3" x1=".5" x2=".5" y1="1" y2="0" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-5" x1=".5" x2=".5" y1="1" y2="0" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-6" x1=".501" x2=".501" y1="1" y2="0" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-7" x1=".5" x2=".5" y1="1" y2="0" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-12" x1=".5" x2=".5" y1="1" y2="0" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-13" x1=".5" x2=".5" y1="1" y2="0" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-17" x1=".5" x2=".5" y1="1" y2="0" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-18" x1=".501" x2=".501" y1="1" y2="0" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-19" x1=".5" x2=".5" y1="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#b3b3b3" stop-opacity=".251"/>
+            <stop offset=".54" stop-color="#b3b3b3" stop-opacity=".102"/>
+            <stop offset="1" stop-color="#b3b3b3" stop-opacity=".051"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-20" x1=".5" x2=".5" y1="1.001" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-opacity=".122"/>
+            <stop offset=".55" stop-opacity=".09"/>
+            <stop offset="1" stop-opacity=".02"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-21" x1=".5" x2=".5" y1=".999" y2="0" xlink:href="#linear-gradient-20"/>
+    <circle id="Elipse_1" cx="56.509" cy="56.509" r="56.509" class="cls-1" data-name="Elipse 1" transform="translate(10.467 16.317)"/>
+    <circle id="Elipse_2" cx="56.509" cy="56.509" r="56.509" class="cls-1" data-name="Elipse 2" transform="translate(159.502 5.139)"/>
+    <g id="_Group_" data-name="&lt;Group&gt;" transform="translate(231.48 48.654)">
+        <path id="Trazado_1" fill="url(#linear-gradient)" d="M898.2 440.98a13.972 13.972 0 0 1-3.794-9.56 14.192 14.192 0 0 1 6.961-12.131 8.237 8.237 0 0 1-1.453-4.657 8.635 8.635 0 0 1 8.781-8.483 8.74 8.74 0 0 1 8.424 6.107 13.174 13.174 0 0 1 11.2-6.107 12.869 12.869 0 0 1 13.084 12.64 12.233 12.233 0 0 1-.8 4.362c.264-.019.531-.04.8-.04a10.328 10.328 0 0 1 10.5 10.147 9.921 9.921 0 0 1-.053 1.025 12.6 12.6 0 0 1 7.886 11.575 12.825 12.825 0 0 1-13.041 12.6 13.554 13.554 0 0 1-2.257-.193c.037.419.062.844.062 1.273a14.393 14.393 0 0 1-14.633 14.14 14.9 14.9 0 0 1-8.334-2.518 11.11 11.11 0 0 1-7.076 2.518 10.75 10.75 0 0 1-10.932-10.557c0-.251.022-.5.04-.748h-.04a11.514 11.514 0 0 1-11.706-11.311 11.271 11.271 0 0 1 6.381-10.082z" data-name="Trazado 1" transform="translate(-891.82 -406.149)"/>
+    </g>
+    <path id="_Path_" d="M902.614 444.119a13.382 13.382 0 0 1-3.63-9.15 13.584 13.584 0 0 1 6.663-11.612 7.884 7.884 0 0 1-1.391-4.468 8.266 8.266 0 0 1 8.405-8.119 8.383 8.383 0 0 1 8.073 5.843 12.612 12.612 0 0 1 10.7-5.84 12.317 12.317 0 0 1 12.522 12.109 11.711 11.711 0 0 1-.767 4.176c.255-.019.509-.037.767-.037a9.884 9.884 0 0 1 10.051 9.712 9.526 9.526 0 0 1-.053.981 12.076 12.076 0 0 1 7.548 11.078 12.277 12.277 0 0 1-12.482 12.059 12.973 12.973 0 0 1-2.174-.183c.038.4.06.807.06 1.217a13.775 13.775 0 0 1-14.006 13.531 14.282 14.282 0 0 1-7.976-2.409 10.635 10.635 0 0 1-6.747 2.416 10.292 10.292 0 0 1-10.464-10.11c0-.242.019-.478.037-.717h-.037a11.021 11.021 0 0 1-11.206-10.827 10.79 10.79 0 0 1 6.1-9.65z" class="cls-3" data-name="&lt;Path&gt;" transform="translate(-663.573 -360.68)"/>
+    <path id="_Path_2" d="M0 0L0 75.213" class="cls-4" data-name="&lt;Path&gt;" transform="translate(262.781 69.284)"/>
+    <path id="Rectángulo_9" fill="url(#linear-gradient-2)" d="M0 0H4.095V75.21H0z" data-name="Rectángulo 9" transform="translate(260.663 69.284)"/>
+    <path id="Rectángulo_10" d="M0 0H2.267V75.21H0z" class="cls-4" data-name="Rectángulo 10" transform="translate(261.648 69.284)"/>
+    <path id="_Path_3" d="M13.432 13.699L0 0" class="cls-4" data-name="&lt;Path&gt;" transform="translate(249.579 78.111)"/>
+    <path id="Rectángulo_11" d="M0 0H2.267V19.185H0z" class="cls-4" data-name="Rectángulo 11" transform="rotate(-44.44 221.025 -265.086)"/>
+    <path id="_Path_4" d="M0 9.768L13.922 0" class="cls-4" data-name="&lt;Path&gt;" transform="translate(263.011 93.816)"/>
+    <path id="Rectángulo_12" d="M0 0H17.009V2.267H0z" class="cls-4" data-name="Rectángulo 12" transform="rotate(-35.06 293.666 -363.964)"/>
+    <g id="_Group_2" data-name="&lt;Group&gt;" transform="translate(205.48 49.195)">
+        <path id="Trazado_2" d="M867.5 443.5a14.823 14.823 0 0 0-3.058-22.169 8.765 8.765 0 0 0 1.4-4.772 8.454 8.454 0 0 0-16.611-2.428 12.572 12.572 0 0 0-10.814-6.241 12.78 12.78 0 0 0-12.634 12.92 13.155 13.155 0 0 0 .773 4.459c-.255-.019-.512-.04-.773-.04a10.274 10.274 0 0 0-10.141 10.37c0 .354.019.7.053 1.046a12.889 12.889 0 0 0-7.616 11.83 12.738 12.738 0 0 0 12.59 12.879 12.382 12.382 0 0 0 2.173-.2c-.037.428-.059.863-.059 1.3a14.293 14.293 0 0 0 14.13 14.45 13.845 13.845 0 0 0 8.045-2.574 10.37 10.37 0 0 0 6.831 2.574 10.678 10.678 0 0 0 10.557-10.8c0-.258-.022-.512-.037-.767h.037a11.432 11.432 0 0 0 11.3-11.56A11.587 11.587 0 0 0 867.5 443.5z" class="cls-6" data-name="Trazado 2" transform="translate(-808.079 -407.89)"/>
+    </g>
+    <path id="_Path_5" d="M870.374 448.134a13.913 13.913 0 0 0-2.872-20.8 8.228 8.228 0 0 0 1.317-4.48 7.93 7.93 0 0 0-15.581-2.282 11.8 11.8 0 0 0-10.153-5.859 12 12 0 0 0-11.858 12.128 12.348 12.348 0 0 0 .727 4.185c-.239-.019-.481-.037-.727-.037a9.62 9.62 0 0 0-9.517 9.734 9.336 9.336 0 0 0 .05.981 12.109 12.109 0 0 0-7.141 11.106 11.947 11.947 0 0 0 11.82 12.087 11.622 11.622 0 0 0 2.046-.183c-.034.4-.056.81-.056 1.22a13.413 13.413 0 0 0 13.261 13.562 12.994 12.994 0 0 0 7.551-2.416 9.734 9.734 0 0 0 6.412 2.416 10.023 10.023 0 0 0 9.908-10.134c0-.242-.019-.481-.034-.72h.034a10.733 10.733 0 0 0 10.609-10.852 10.867 10.867 0 0 0-5.796-9.656z" class="cls-7" data-name="&lt;Path&gt;" transform="translate(-607.109 -363.397)"/>
+    <path id="Rectángulo_13" d="M0 0H3.08V76.623H0z" class="cls-6" data-name="Rectángulo 13" transform="translate(239.264 69.256)"/>
+    <path id="Rectángulo_14" d="M0 0H1.549V75.546H0z" class="cls-4" data-name="Rectángulo 14" transform="translate(240.14 70.333)"/>
+    <path id="Rectángulo_15" d="M0 0H18.716V1.549H0z" class="cls-4" data-name="Rectángulo 15" transform="rotate(-47.2 225.952 -228.372)"/>
+    <path id="Rectángulo_16" d="M0 0H1.549V16.422H0z" class="cls-4" data-name="Rectángulo 16" transform="rotate(-53.42 208.625 -177.633)"/>
+    <g id="_Group_3" data-name="&lt;Group&gt;" transform="translate(201.204 83.46)">
+        <path id="Trazado_3" fill="url(#linear-gradient-5)" d="M798.657 542a9.529 9.529 0 0 1-2.583-6.52 9.672 9.672 0 0 1 4.744-8.265 5.613 5.613 0 0 1-.99-3.182 5.886 5.886 0 0 1 5.983-5.781 5.958 5.958 0 0 1 5.741 4.161 8.979 8.979 0 0 1 7.635-4.161 8.77 8.77 0 0 1 8.917 8.613 8.34 8.34 0 0 1-.547 2.974c.18 0 .36-.028.547-.028a7.031 7.031 0 0 1 7.141 6.915 6.746 6.746 0 0 1-.037.7 8.585 8.585 0 0 1 5.375 7.89 8.739 8.739 0 0 1-8.883 8.584 9.234 9.234 0 0 1-1.552-.13c.028.286.043.574.043.866a9.8 9.8 0 0 1-9.973 9.625 10.166 10.166 0 0 1-5.654-1.686 7.57 7.57 0 0 1-4.822 1.7 7.329 7.329 0 0 1-7.452-7.2 3.074 3.074 0 0 1 .028-.509h-.028a7.844 7.844 0 0 1-7.977-7.706 7.681 7.681 0 0 1 4.344-6.86z" data-name="Trazado 3" transform="translate(-794.31 -518.249)"/>
+    </g>
+    <path id="_Path_6" d="M801.633 544.174a9.118 9.118 0 0 1-2.484-6.235 9.256 9.256 0 0 1 4.542-7.911 5.372 5.372 0 0 1-.947-3.046 5.633 5.633 0 0 1 5.725-5.533 5.7 5.7 0 0 1 5.5 3.984 8.594 8.594 0 0 1 7.306-3.984 8.4 8.4 0 0 1 8.535 8.247 7.979 7.979 0 0 1-.522 2.847c.174 0 .345-.025.522-.025a6.737 6.737 0 0 1 6.849 6.617 6.452 6.452 0 0 1-.034.668 8.219 8.219 0 0 1 5.145 7.551 8.367 8.367 0 0 1-8.508 8.219 8.841 8.841 0 0 1-1.472-.124c.025.273.04.55.04.829a9.387 9.387 0 0 1-9.544 9.222 9.731 9.731 0 0 1-5.434-1.643 7.247 7.247 0 0 1-4.614 1.643 7.022 7.022 0 0 1-7.141-6.89 3.193 3.193 0 0 1 .025-.487h-.022a7.51 7.51 0 0 1-7.635-7.377 7.352 7.352 0 0 1 4.168-6.572z" class="cls-3" data-name="&lt;Path&gt;" transform="translate(-595.278 -436.995)"/>
+    <path id="_Path_7" d="M0 0L0 51.253" class="cls-4" data-name="&lt;Path&gt;" transform="translate(222.535 97.532)"/>
+    <path id="Rectángulo_17" fill="url(#linear-gradient-6)" d="M0 0H2.791V51.253H0z" data-name="Rectángulo 17" transform="translate(221.091 97.532)"/>
+    <path id="Rectángulo_18" d="M0 0H1.543V51.253H0z" class="cls-4" data-name="Rectángulo 18" transform="translate(221.762 97.532)"/>
+    <path id="_Path_8" d="M9.15 9.336L0 0" class="cls-4" data-name="&lt;Path&gt;" transform="translate(213.54 103.546)"/>
+    <path id="Rectángulo_19" d="M0 0H1.543V13.072H0z" class="cls-4" data-name="Rectángulo 19" transform="rotate(-44.44 233.954 -208.682)"/>
+    <path id="_Path_9" d="M0 6.657L9.489 0" class="cls-4" data-name="&lt;Path&gt;" transform="translate(222.69 114.249)"/>
+    <path id="Rectángulo_20" d="M0 0H11.591V1.543H0z" class="cls-4" data-name="Rectángulo 20" transform="rotate(-35.06 301.497 -291.664)"/>
+    <g id="_Group_4" data-name="&lt;Group&gt;" transform="translate(191.924 84.83)">
+        <path id="Trazado_4" fill="url(#linear-gradient-7)" d="M804.305 546.562a9.936 9.936 0 0 0-2.052-14.879 5.9 5.9 0 0 0 .931-3.2 5.676 5.676 0 0 0-11.15-1.63 8.439 8.439 0 0 0-7.253-4.189 8.577 8.577 0 0 0-8.48 8.672 8.831 8.831 0 0 0 .519 2.993c-.171 0-.345-.028-.519-.028a6.883 6.883 0 0 0-6.806 6.961 4.8 4.8 0 0 0 .034.7 8.65 8.65 0 0 0-5.111 7.942 8.551 8.551 0 0 0 8.452 8.644 8.315 8.315 0 0 0 1.462-.13c-.025.289-.04.578-.04.872a9.6 9.6 0 0 0 9.482 9.7 9.292 9.292 0 0 0 5.4-1.726 6.961 6.961 0 0 0 4.586 1.726 7.166 7.166 0 0 0 7.085-7.247 3.561 3.561 0 0 0-.025-.516h.025a7.676 7.676 0 0 0 7.588-7.762 7.778 7.778 0 0 0-4.128-6.903z" data-name="Trazado 4" transform="translate(-764.419 -522.66)"/>
+    </g>
+    <path id="_Path_10" d="M806.215 549.669a9.34 9.34 0 0 0-1.928-13.972 5.523 5.523 0 0 0 .885-3.006 5.328 5.328 0 0 0-10.467-1.531 7.921 7.921 0 0 0-6.815-3.931 8.05 8.05 0 0 0-7.958 8.141 8.287 8.287 0 0 0 .487 2.81c-.161 0-.31-.025-.487-.025a6.461 6.461 0 0 0-6.387 6.52 4.606 4.606 0 0 0 .031.658 8.119 8.119 0 0 0-4.8 7.452 8.025 8.025 0 0 0 7.933 8.113 7.8 7.8 0 0 0 1.372-.124q-.037.405-.037.82a9.006 9.006 0 0 0 8.9 9.1 8.722 8.722 0 0 0 5.07-1.621 6.52 6.52 0 0 0 4.3 1.621 6.728 6.728 0 0 0 6.651-6.8 3.186 3.186 0 0 0-.025-.481h.025a7.2 7.2 0 0 0 7.123-7.284 7.3 7.3 0 0 0-3.873-6.46z" class="cls-7" data-name="&lt;Path&gt;" transform="translate(-575.502 -440.981)"/>
+    <path id="Rectángulo_21" d="M0 0H2.068V51.43H0z" class="cls-6" data-name="Rectángulo 21" transform="translate(214.605 98.296)"/>
+    <path id="Rectángulo_22" d="M0 0H1.04V50.706H0z" class="cls-4" data-name="Rectángulo 22" transform="translate(215.192 99.02)"/>
+    <path id="Rectángulo_23" d="M0 0H12.562V1.04H0z" class="cls-4" data-name="Rectángulo 23" transform="rotate(-47.2 237.954 -189.19)"/>
+    <path id="Rectángulo_24" d="M0 0H1.04V11.022H0z" class="cls-4" data-name="Rectángulo 24" transform="rotate(-53.42 218.521 -146.994)"/>
+    <path id="Rectángulo_25" d="M0 0H87.558V77.933H0z" class="cls-6" data-name="Rectángulo 25" transform="translate(125.833 73.072)"/>
+    <path id="Rectángulo_26" d="M0 0H142.826V75.449H0z" class="cls-11" data-name="Rectángulo 26" transform="translate(68.392 73.072)"/>
+    <path id="Trazado_5" d="M536.912 427.428H396.57V390.79h135.219a5.123 5.123 0 0 1 5.123 5.123z" class="cls-6" data-name="Trazado 5" transform="translate(-318.86 -346.904)"/>
+    <path id="Trazado_6" fill="#6c63ff" d="M250.26 146h134.014a5.123 5.123 0 0 1 5.123 5.123v29.121H250.26z" data-name="Trazado 6" transform="translate(-172.553 -100.664)"/>
+    <path id="Trazado_7" fill="#ff8383" d="M250.26 146h134.014a5.123 5.123 0 0 1 5.123 5.123v29.121H250.26z" data-name="Trazado 7" opacity="0.7" transform="translate(-172.553 -100.664)"/>
+    <path id="Trazado_8" d="M141.7 13.32L93.26 47.431v112.751h96.873V47.431z" class="cls-6" data-name="Trazado 8" transform="translate(-64.301 -9.18)"/>
+    <path id="Trazado_9" d="M194.165 46.856L148.213 13.32 102.26 46.856v28.252h91.905z" class="cls-14" data-name="Trazado 9" transform="translate(-70.506 -9.18)"/>
+    <path id="Trazado_10" fill="#fcc5c5" d="M194.165 46.856L148.213 13.32 102.26 46.856v28.252h91.905z" data-name="Trazado 10" opacity="0.5" transform="translate(-70.506 -9.18)"/>
+    <path id="Rectángulo_27" d="M0 0H91.905V82.591H0z" class="cls-11" data-name="Rectángulo 27" transform="translate(31.754 65.93)"/>
+    <path id="Trazado_11" fill="url(#linear-gradient-12)" d="M178 56.069l-51.852-37.026-52.473 37.026-3.415-13.022L126.148 2.37l55.888 40.677z" data-name="Trazado 11" transform="translate(-48.442 -1.63)"/>
+    <path id="Trazado_12" d="M182.676 56.6L131.3 19.211 79.925 56.6 77.73 44.9 131.3 5.91l53.571 38.99z" class="cls-14" data-name="Trazado 12" transform="translate(-53.592 -4.071)"/>
+    <path id="Trazado_13" fill="#e67575" d="M182.676 56.6L131.3 19.211 79.925 56.6 77.73 44.9 131.3 5.91l53.571 38.99z" data-name="Trazado 13" opacity="0.2" transform="translate(-53.592 -4.071)"/>
+    <path id="Rectángulo_28" d="M0 0H52.162V64.582H0z" class="cls-18" data-name="Rectángulo 28" transform="translate(51.625 83.939)"/>
+    <path id="Rectángulo_29" d="M0 0H52.162V11.178H0z" class="cls-14" data-name="Rectángulo 29" transform="translate(51.625 83.939)"/>
+    <path id="Rectángulo_30" d="M0 0H52.162V11.178H0z" class="cls-14" data-name="Rectángulo 30" transform="translate(51.625 137.343)"/>
+    <path id="Trazado_14" fill="lime" d="M676.866 650.932a.466.466 0 1 0-.466-.466.466.466 0 0 0 .466.466z" data-name="Trazado 14" transform="translate(-511.806 -525.632)"/>
+    <path id="Rectángulo_31" d="M0 0H25.46V47.195H0z" class="cls-18" data-name="Rectángulo 31" transform="translate(152.224 101.326)"/>
+    <path id="Rectángulo_32" d="M0 0H23.908V17.387H0z" class="cls-18" data-name="Rectángulo 32" transform="translate(184.205 91.391)"/>
+    <path id="Rectángulo_33" fill="#ff8383" d="M0 0H23.908V7.762H0z" data-name="Rectángulo 33" opacity="0.2" transform="translate(184.205 91.391)"/>
+    <g id="_Group_5" data-name="&lt;Group&gt;" transform="translate(15.214 96.675)">
+        <path id="Trazado_15" d="M198.926 580.6a7.942 7.942 0 0 1-2.173-5.43 8.073 8.073 0 0 1 3.956-6.89 4.679 4.679 0 0 1-.826-2.652 4.906 4.906 0 0 1 4.986-4.819 4.968 4.968 0 0 1 4.794 3.474 7.486 7.486 0 0 1 6.365-3.468 7.312 7.312 0 0 1 7.433 7.185 6.952 6.952 0 0 1-.461 2.48c.152 0 .31-.022.456-.022a5.866 5.866 0 0 1 5.965 5.763 5.632 5.632 0 0 1-.031.581 7.157 7.157 0 0 1 4.48 6.576 7.285 7.285 0 0 1-7.408 7.157 7.69 7.69 0 0 1-1.282-.109c.022.239.034.478.034.723a8.178 8.178 0 0 1-8.312 8.032 8.473 8.473 0 0 1-4.735-1.431 6.312 6.312 0 0 1-4.021 1.431 6.117 6.117 0 0 1-6.21-6 2.77 2.77 0 0 1 .022-.425h-.022a6.542 6.542 0 0 1-6.651-6.424 6.4 6.4 0 0 1 3.636-5.732z" class="cls-21" data-name="Trazado 15" transform="translate(-195.29 -560.808)"/>
+    </g>
+    <path id="_Path_11" d="M201.435 582.395a7.6 7.6 0 0 1-2.062-5.2 7.716 7.716 0 0 1 3.785-6.595 4.478 4.478 0 0 1-.789-2.54 4.7 4.7 0 0 1 4.775-4.614 4.754 4.754 0 0 1 4.58 3.319 7.163 7.163 0 0 1 6.092-3.319 7 7 0 0 1 7.113 6.874 6.654 6.654 0 0 1-.435 2.372c.143 0 .289-.022.435-.022a5.624 5.624 0 0 1 5.71 5.517 5.39 5.39 0 0 1-.028.556 6.853 6.853 0 0 1 4.285 6.3 6.974 6.974 0 0 1-7.092 6.852 7.363 7.363 0 0 1-1.241-.105c.021.227.033.459.033.692a7.826 7.826 0 0 1-7.958 7.688 8.11 8.11 0 0 1-4.515-1.373 6.039 6.039 0 0 1-3.847 1.37 5.846 5.846 0 0 1-5.943-5.744 2.532 2.532 0 0 1 .022-.407h-.022a6.261 6.261 0 0 1-6.365-6.151 6.129 6.129 0 0 1 3.467-5.47z" class="cls-3" data-name="&lt;Path&gt;" transform="translate(-181.924 -465.953)"/>
+    <path id="_Path_12" d="M0 0L0 42.727" class="cls-4" data-name="&lt;Path&gt;" transform="translate(32.999 108.399)"/>
+    <path id="Rectángulo_34" d="M0 0H2.329V42.727H0z" class="cls-6" data-name="Rectángulo 34" transform="translate(31.794 108.399)"/>
+    <path id="Rectángulo_35" d="M0 0H1.285V42.727H0z" class="cls-4" data-name="Rectángulo 35" transform="translate(32.353 108.399)"/>
+    <path id="_Path_13" d="M7.632 7.784L0 0" class="cls-4" data-name="&lt;Path&gt;" transform="translate(25.497 113.411)"/>
+    <path id="Rectángulo_36" d="M0 0H1.285V10.898H0z" class="cls-4" data-name="Rectángulo 36" transform="rotate(-44.44 151.913 26.297)"/>
+    <path id="_Path_14" d="M0 5.548L7.908 0" class="cls-4" data-name="&lt;Path&gt;" transform="translate(33.129 122.334)"/>
+    <path id="Rectángulo_37" d="M0 0H9.662V1.285H0z" class="cls-4" data-name="Rectángulo 37" transform="rotate(-35.06 217.967 11.822)"/>
+    <g id="_Group_6" data-name="&lt;Group&gt;" transform="translate(0 96.675)">
+        <path id="Trazado_16" d="M149.926 580.6a7.942 7.942 0 0 1-2.173-5.43 8.073 8.073 0 0 1 3.956-6.89 4.679 4.679 0 0 1-.826-2.652 4.906 4.906 0 0 1 4.986-4.819 4.968 4.968 0 0 1 4.794 3.474 7.486 7.486 0 0 1 6.365-3.468 7.312 7.312 0 0 1 7.433 7.185 6.952 6.952 0 0 1-.461 2.48c.152 0 .311-.022.456-.022a5.866 5.866 0 0 1 5.965 5.763 5.629 5.629 0 0 1-.031.581 7.157 7.157 0 0 1 4.48 6.576 7.285 7.285 0 0 1-7.408 7.157 7.691 7.691 0 0 1-1.282-.109c.022.239.034.478.034.723a8.178 8.178 0 0 1-8.312 8.032 8.474 8.474 0 0 1-4.735-1.431 6.312 6.312 0 0 1-4.021 1.431 6.117 6.117 0 0 1-6.21-6 2.768 2.768 0 0 1 .022-.425h-.022a6.542 6.542 0 0 1-6.651-6.424 6.4 6.4 0 0 1 3.641-5.732z" class="cls-21" data-name="Trazado 16" transform="translate(-146.29 -560.808)"/>
+    </g>
+    <path id="_Path_15" d="M152.435 582.395a7.6 7.6 0 0 1-2.062-5.2 7.716 7.716 0 0 1 3.785-6.595 4.478 4.478 0 0 1-.789-2.54 4.7 4.7 0 0 1 4.775-4.614 4.754 4.754 0 0 1 4.58 3.319 7.163 7.163 0 0 1 6.092-3.319 7 7 0 0 1 7.113 6.874 6.654 6.654 0 0 1-.435 2.372c.143 0 .289-.022.435-.022a5.624 5.624 0 0 1 5.71 5.517 5.39 5.39 0 0 1-.028.556 6.853 6.853 0 0 1 4.285 6.3 6.974 6.974 0 0 1-7.092 6.852 7.363 7.363 0 0 1-1.241-.105c.021.227.033.459.033.692a7.826 7.826 0 0 1-7.958 7.688 8.11 8.11 0 0 1-4.515-1.373 6.039 6.039 0 0 1-3.847 1.37 5.846 5.846 0 0 1-5.943-5.744 2.531 2.531 0 0 1 .022-.407h-.022a6.261 6.261 0 0 1-6.365-6.151 6.129 6.129 0 0 1 3.467-5.47z" class="cls-3" data-name="&lt;Path&gt;" transform="translate(-148.138 -465.953)"/>
+    <path id="_Path_16" d="M0 0L0 42.727" class="cls-4" data-name="&lt;Path&gt;" transform="translate(17.785 108.399)"/>
+    <path id="Rectángulo_38" d="M0 0H2.329V42.727H0z" class="cls-6" data-name="Rectángulo 38" transform="translate(16.58 108.399)"/>
+    <path id="Rectángulo_39" d="M0 0H1.285V42.727H0z" class="cls-4" data-name="Rectángulo 39" transform="translate(17.139 108.399)"/>
+    <path id="_Path_17" d="M7.632 7.784L0 0" class="cls-4" data-name="&lt;Path&gt;" transform="translate(10.283 113.411)"/>
+    <path id="Rectángulo_40" d="M0 0H1.285V10.898H0z" class="cls-4" data-name="Rectángulo 40" transform="rotate(-44.44 144.305 44.92)"/>
+    <path id="_Path_18" d="M0 5.548L7.908 0" class="cls-4" data-name="&lt;Path&gt;" transform="translate(17.915 122.334)"/>
+    <path id="Rectángulo_41" d="M0 0H9.662V1.285H0z" class="cls-4" data-name="Rectángulo 41" transform="rotate(-35.06 210.364 35.905)"/>
+    <g id="_Group_7" data-name="&lt;Group&gt;" transform="translate(4.992 96.862)">
+        <path id="Trazado_17" fill="url(#linear-gradient-17)" d="M195.623 581.353a8.293 8.293 0 0 0-1.711-12.42 4.906 4.906 0 0 0 .786-2.67 4.732 4.732 0 0 0-9.3-1.36 7.036 7.036 0 0 0-6.051-3.493 7.141 7.141 0 0 0-7.07 7.228 7.362 7.362 0 0 0 .432 2.484c-.143 0-.286-.022-.432-.022a5.738 5.738 0 0 0-5.679 5.831 4.085 4.085 0 0 0 .028.587 7.234 7.234 0 0 0 2.785 13.826 6.92 6.92 0 0 0 1.22-.109c-.022.239-.034.481-.034.727a7.986 7.986 0 0 0 7.905 8.073 7.762 7.762 0 0 0 4.5-1.441 5.8 5.8 0 0 0 3.822 1.441 5.974 5.974 0 0 0 5.9-6.039 2.81 2.81 0 0 0-.022-.428h.022a6.4 6.4 0 0 0 6.325-6.468 6.483 6.483 0 0 0-3.426-5.747z" data-name="Trazado 17" transform="translate(-162.369 -561.41)"/>
+    </g>
+    <path id="_Path_19" d="M197.254 583.976a7.784 7.784 0 0 0-1.608-11.643 4.6 4.6 0 0 0 .736-2.506 4.44 4.44 0 0 0-8.725-1.276 6.6 6.6 0 0 0-5.682-3.279 6.713 6.713 0 0 0-6.62 6.787 6.909 6.909 0 0 0 .407 2.341c-.133 0-.27-.022-.407-.022a5.387 5.387 0 0 0-5.325 5.446 3.582 3.582 0 0 0 .028.55 6.769 6.769 0 0 0-4 6.21 6.691 6.691 0 0 0 6.613 6.762 6.5 6.5 0 0 0 1.146-.1c-.019.227-.031.453-.031.683a7.505 7.505 0 0 0 7.421 7.588 7.272 7.272 0 0 0 4.226-1.351 5.446 5.446 0 0 0 3.583 1.347 5.607 5.607 0 0 0 5.545-5.67 2.907 2.907 0 0 0-.019-.4h.019a6 6 0 0 0 5.937-6.073 6.086 6.086 0 0 0-3.244-5.394z" class="cls-7" data-name="&lt;Path&gt;" transform="translate(-159.921 -467.209)"/>
+    <path id="Rectángulo_42" fill="url(#linear-gradient-18)" d="M0 0H1.723V42.876H0z" data-name="Rectángulo 42" transform="translate(23.902 108.104)"/>
+    <path id="Rectángulo_43" d="M0 0H0.866V42.273H0z" class="cls-4" data-name="Rectángulo 43" transform="translate(24.392 108.707)"/>
+    <path id="Rectángulo_44" d="M0 0H10.473V0.866H0z" class="cls-4" data-name="Rectángulo 44" transform="rotate(-47.2 150.814 32.746)"/>
+    <path id="Rectángulo_45" d="M0 0H0.866V9.191H0z" class="cls-4" data-name="Rectángulo 45" transform="rotate(-53.42 130.668 44.575)"/>
+    <path id="Trazado_18" fill="url(#linear-gradient-19)" d="M678.227 269.852a47.5 47.5 0 1 0-7.772 72.357l34.34 35.706a2.31 2.31 0 0 0 3.27.065l8.554-8.225a2.31 2.31 0 0 0 .065-3.269l-34.34-35.706a47.505 47.505 0 0 0-4.117-60.928zm-10.7 57.416a33.977 33.977 0 1 1 .932-48.042 33.977 33.977 0 0 1-.928 48.042z" data-name="Trazado 18" transform="translate(-456.742 -253.46)"/>
+    <path id="Trazado_19" fill="url(#linear-gradient-20)" d="M661.919 377.85c-3.822 0-3.828 5.937 0 5.937s3.825-5.937 0-5.937z" data-name="Trazado 19" transform="translate(-499.843 -337.982)"/>
+    <path id="Trazado_20" fill="url(#linear-gradient-21)" d="M698.641 316.573a28.515 28.515 0 0 0-24.619 12.73c-1.624 2.54 2.987 4.785 4.6 2.257 4.12-6.449 11.951-10.557 20.412-10.33a26.016 26.016 0 0 1 21.225 12.345c1.624 2.673 5.871.242 4.26-2.416-5.187-8.559-15.253-14.347-25.878-14.586z" data-name="Trazado 20" transform="translate(-509.931 -295.726)"/>
+    <path id="Trazado_21" d="M690.227 264.032a47.5 47.5 0 1 0-7.772 72.357L716.8 372.1a2.31 2.31 0 0 0 3.27.065l8.557-8.228a2.31 2.31 0 0 0 .065-3.269l-34.34-35.706a47.505 47.505 0 0 0-4.125-60.93zm-10.7 57.416a33.977 33.977 0 1 1 .931-48.042 33.977 33.977 0 0 1-.927 48.042z" class="cls-14" data-name="Trazado 21" transform="translate(-465.016 -249.447)"/>
+    <path id="Trazado_22" d="M673.919 372c-3.822 0-3.828 5.937 0 5.937s3.825-5.937 0-5.937z" class="cls-14" data-name="Trazado 22" transform="translate(-508.117 -333.949)"/>
+    <path id="Trazado_23" d="M710.641 310.753a28.515 28.515 0 0 0-24.619 12.73c-1.624 2.54 2.987 4.785 4.6 2.257 4.12-6.449 11.951-10.557 20.412-10.33a26.016 26.016 0 0 1 21.225 12.345c1.624 2.673 5.871.242 4.26-2.416-5.187-8.553-15.253-14.339-25.878-14.586z" class="cls-14" data-name="Trazado 23" transform="translate(-518.205 -291.713)"/>
+</svg>
